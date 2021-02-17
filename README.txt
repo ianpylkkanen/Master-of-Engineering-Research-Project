@@ -20,6 +20,10 @@ PDF: Pylkkanen_FinalPresentation_MEng2020.pdf
 -----------------------------------------------------------------------------------------------
 NX
 
+NOTE: NX files are too large to upload.  For display, these were the files used to model the
+CubeSat and run both the static and dynamic simulations.
+
+
 Main Files
 Part File: CubeSatmm.prt
 FEM File:  CubeSatmm_fem1.fem
