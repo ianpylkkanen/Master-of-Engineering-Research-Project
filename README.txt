@@ -3,7 +3,7 @@ Master of Engineering Project
 
 Rensselaer Polytechnic Institute
 Department of Mechanical, Aerospace, and Nuclear engineering
-Intelligent Strucutral Systems Laboratory (ISSL)
+Intelligent Structural Systems Laboratory (ISSL)
 Troy, NY
 Advisor: Fotis Kopsaftopoulos
 
